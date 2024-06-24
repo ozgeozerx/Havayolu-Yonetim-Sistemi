@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HavayoluYönetimSistemi", "HavayoluYönetimSistemi\HavayoluYönetimSistemi.csproj", "{280C7068-B7A0-4FA3-A934-6515BDAD0409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280C7068-B7A0-4FA3-A934-6515BDAD0409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280C7068-B7A0-4FA3-A934-6515BDAD0409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280C7068-B7A0-4FA3-A934-6515BDAD0409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280C7068-B7A0-4FA3-A934-6515BDAD0409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBA22340-68EC-465C-93BF-6938B235DB02}
+	EndGlobalSection
+EndGlobal
